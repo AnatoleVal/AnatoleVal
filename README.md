@@ -5,7 +5,7 @@
 
  </div>
  
-$${\color{#97193a}Please\space \color{#97193a}Sign\space \color{#97193a}My\space \color{#97193a}Ata\space \color{#97193a}my \space \color{#97193a}or SP}$$
+$${\color{#97193a}Please\space \color{#97193a}Sign\space \color{#97193a}My\space \color{#97193a}Ata\space \color{#97193a}my \space \color{#97193a}or \space SP}$$
 
 <img src="https://64.media.tumblr.com/bfdf72c64145d00f4a50fe976b75fd41/f92a565f98ee3f1b-85/s2048x3072/e7d232a4c88e79a75fefb3d79df237f517ee3716.pnj" width="1000">
 
